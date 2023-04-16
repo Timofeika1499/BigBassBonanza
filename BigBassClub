@@ -1,13 +1,10 @@
 {
     "Enable": false,
-    "PermissLang": [30,37,28],
-    "PermissTz": [ "Kaliningrad", "Kirov", "Moscow","Samara","Saratov","Volgograd","Yekaterinburg","Omsk","Barnaul","Krasnoyarsk","Novosibirsk","Irkutsk","Chita","Vladivostok",
-    "Magadan", "Sakhalin","Srednekolymsk","Anadyr","Kamchatka","Oral","Almaty","Baku","Yerevan","Minsk","Bishkek","Chisinau","Dushanbe","Tashkent", "Istanbul", 
-    "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
+    "PermissLang": [37,28],
+    "PermissTz": ["Istanbul", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
     "Links": 
     [ 
-          { "Lang":30, "Link": "https://yandex.com/"},
-          { "Lang":37, "Link": "https://www.google.com/"},
-          { "Lang":28, "Link": "https://www.yahoo.com/"}
+          { "Lang":37, "Link": ""},
+          { "Lang":28, "Link": ""}
     ]
  }
