@@ -1,10 +1,9 @@
 {
-    "Enable": false,
-    "PermissLang": [37,28],
+    "Enable": true,
+    "PermissLang": [37],
     "PermissTz": ["Istanbul", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
     "Links": 
     [ 
-          { "Lang":37, "Link": ""},
-          { "Lang":28, "Link": ""}
+          { "Lang":37, "Link": "https://1wjkbo.top/casino/list?open=register"}
     ]
  }
